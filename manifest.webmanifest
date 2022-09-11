@@ -1,0 +1,17 @@
+{
+  "name": "Humane Position",
+  "short_name": "Humane Position",
+  "id": "com.example.rundinorun",
+  "description": "The revamped version of Chrome's offline Dino runner.
+
+Controls :
+   Computer : Up and Down arrow keys
+   Touch screens : Swipe up or down
+",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
